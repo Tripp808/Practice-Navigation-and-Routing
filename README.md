@@ -1,16 +1,2 @@
-# flutter_application_routing
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the link for video presentation: https://drive.google.com/file/d/1YtShqyZyItW5k0kgDEj6iB_CRYaHf3DU/view?usp=sharing
+Code ran without errors as you can see from the terminal. The emulator was constantly crashing my computer so I had to present code only. 
